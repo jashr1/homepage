@@ -1,11 +1,11 @@
 <html>
 <body> style="padding: 30px; font-family:Joker; background-color: light green;">
         <div style="text-align: center">
-	       	<imgsrc="">
+	       	
 	        <h1>MYSORE PALACE</h1>
 	        <hr>
 	        <p>Welcome To The World Of Mysore Palace</p>
-       
+       <imgsrc="Mysore.jpg">
 <p>Architectural style ;	Indo-Saracenic
 Location ;	Inner Mysore
 Town or city ;	Mysore
@@ -18,8 +18,8 @@ Owner ;	Rajmata Pramoda Devi Wadiyar
 Design and construction
 Architect;	Henry Irwin
 Designations ;	Royal Seat of the Maharajas of Mysore</p>
-
-
+<imgsrc="mysore 2.jpg">
+                              <h2> more....</h2>
 <p The Mysore Palace, Karnataka is popularly known as the the Maharajah’s Palace, situated at the 
 city center at Mirza Road. Mysore Palace is one of the most fascinating monument of Mysore city. The other name of 
 the Mysore Palace is Amba Vilas and is the largest palaces of India. Mysore’s Wodeyar Mahararajas resided in the Mysore 
@@ -40,8 +40,8 @@ of this; however, Mysore Palace refers specifically to the one within the Old Fo
 the Maharaja Rajarshi His Highness Krishnarajendra Wadiyar IV, Mysore Palace is now one of th
 most famous tourist attractions in India, after the Taj Mahal, and has more than 6 million visitors annually.
 </p>
-             
-        <h2> more....</h2>
+             <imgsrc="mysore 3.jpg">
+        
 
 
 
